@@ -6,7 +6,6 @@
 
   Baseline - https://github.com/MandarinConLaBarba/flux-immutable-todomvc
 
-
 ## Building
 
 NOTE: requires `gulp` (`npm install -g gulp`)
@@ -19,3 +18,4 @@ $ gulp reactify
 $ gulp bundle
 
 ```
+To run the app, open index.html in your browser.
